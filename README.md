@@ -1,2 +1,2 @@
-# ds-mii-experiments
-Experiments with DeepSpeed MII library
+# ds-mii-deepdive
+Deep Dive of DeepSpeed MII library
